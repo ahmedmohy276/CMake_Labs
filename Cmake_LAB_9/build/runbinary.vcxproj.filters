@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\IMT ARM Embedded System Diploma\cmake\Cmake Labs\Cmake_LAB_9\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\IMT ARM Embedded System Diploma\cmake\Cmake Labs\Cmake_LAB_9\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9DF4AAC-C0CB-3104-B00E-C7D8894CDE20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

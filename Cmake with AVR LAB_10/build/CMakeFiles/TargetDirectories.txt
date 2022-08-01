@@ -1,0 +1,5 @@
+E:/IMT ARM Embedded System Diploma/cmake/Cmake Labs/Cmake with AVR LAB_10/build/CMakeFiles/LEDBlink.elf.dir
+E:/IMT ARM Embedded System Diploma/cmake/Cmake Labs/Cmake with AVR LAB_10/build/CMakeFiles/flash.dir
+E:/IMT ARM Embedded System Diploma/cmake/Cmake Labs/Cmake with AVR LAB_10/build/CMakeFiles/run.dir
+E:/IMT ARM Embedded System Diploma/cmake/Cmake Labs/Cmake with AVR LAB_10/build/CMakeFiles/edit_cache.dir
+E:/IMT ARM Embedded System Diploma/cmake/Cmake Labs/Cmake with AVR LAB_10/build/CMakeFiles/rebuild_cache.dir

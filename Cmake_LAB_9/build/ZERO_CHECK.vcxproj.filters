@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\IMT ARM Embedded System Diploma\cmake\Cmake Labs\Cmake_LAB_9\build\CMakeFiles\16cd2c08fa07abbe95bf8c0e61205149\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E3782D4A-1842-3275-9821-A87CC763773C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
